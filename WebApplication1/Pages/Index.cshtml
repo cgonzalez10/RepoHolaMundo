@@ -1,17 +1,17 @@
 ﻿@page
 @model IndexModel
 @{
-    ViewData["Title"] = "Home page";
+    ViewData["Title"] = "Harry Potter 🪄";
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>@ViewData["Mensaje"]</p>
-    <p>Mensaje: Clau es la mejor: @Model.Mensaje</p>
+    <h1 class="display-4">Harry Potter and the Web Design Class</h1>
+    <p>@ViewData["Holi!"]</p>
+    <p>Amo a Cris!: @Model.Mensaje</p>
 
     <form method="post">	
         <input asp-for="Mensaje" />
-		<input type="submit" value="Click Me" />
+		<input type="submit" value="Do not click! 🛑​" />
 	</form>
 <a asp-page="/Pagina2">Ir a otra pantalla</a>
 
