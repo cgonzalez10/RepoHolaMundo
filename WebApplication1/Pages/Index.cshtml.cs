@@ -6,7 +6,7 @@ namespace WebApplication1.Pages;
 public class IndexModel : PageModel
 {
     [BindProperty]
-    public string Mensaje {get; set;}
+    public string? Mensaje {get; set;}
     
     public void OnGet()
     {
