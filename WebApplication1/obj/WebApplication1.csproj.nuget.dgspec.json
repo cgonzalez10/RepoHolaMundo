@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/cristina10/Desktop/Temporal/WebApplication1/WebApplication1.csproj": {}
+    "/Users/cristina10/Desktop/RepoHolaMundo/WebApplication1/WebApplication1.csproj": {}
   },
   "projects": {
-    "/Users/cristina10/Desktop/Temporal/WebApplication1/WebApplication1.csproj": {
+    "/Users/cristina10/Desktop/RepoHolaMundo/WebApplication1/WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cristina10/Desktop/Temporal/WebApplication1/WebApplication1.csproj",
+        "projectUniqueName": "/Users/cristina10/Desktop/RepoHolaMundo/WebApplication1/WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "/Users/cristina10/Desktop/Temporal/WebApplication1/WebApplication1.csproj",
+        "projectPath": "/Users/cristina10/Desktop/RepoHolaMundo/WebApplication1/WebApplication1.csproj",
         "packagesPath": "/Users/cristina10/.nuget/packages/",
-        "outputPath": "/Users/cristina10/Desktop/Temporal/WebApplication1/obj/",
+        "outputPath": "/Users/cristina10/Desktop/RepoHolaMundo/WebApplication1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/cristina10/.nuget/NuGet/NuGet.Config"
